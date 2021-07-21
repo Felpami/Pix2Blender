@@ -5,6 +5,7 @@ work used: <br/>
 [Pix2Vox](https://github.com/hzxie/Pix2Vox) <br/>
 [vox importer](https://github.com/RichysHub/MagicaVoxel-VOX-importer)
 
+Scaricare i pesi dal link : [Pix2Vox-A](https://gateway.infinitescript.com/?fileName=Pix2Vox-A-ShapeNet.pth)
 Scaricare il file zip Pix2Blender.zip
 
 Installare il file Pix2Blender.zip all'interno di Blender, nella sezione Testing aggiungere gli addons:
