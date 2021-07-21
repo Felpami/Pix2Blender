@@ -15,3 +15,8 @@ Installare il file Pix2Blender.zip all'interno di Blender, nella sezione Testing
 2)Import Export: MagicaVoxel VOX format
 
 È stato fornita una cartella (InputImages) con 24 immagini per testare la rete.
+
+
+
+https://user-images.githubusercontent.com/82824055/126492297-280f567c-9701-4cf6-b33d-ebdeb1c7bbb3.mov
+
