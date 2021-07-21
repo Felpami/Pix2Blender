@@ -8,7 +8,7 @@ work used: <br/>
 Scaricare i pesi dal link : [Pix2Vox-A](https://gateway.infinitescript.com/?fileName=Pix2Vox-A-ShapeNet.pth) <br/>
 Scaricare il file zip Pix2Blender.zip
 
-inserire il file Pix2Vox-A.pth nella cartella weights (C:\..\Pix2Blender\core\weights)
+inserire il file Pix2Vox-A.pth nella cartella weights (C:\ .. \Pix2Blender\core\weights)
 
 Installare il file Pix2Blender.zip all'interno di Blender, nella sezione Testing aggiungere gli addons:
 1)Tools: Pix2Blender
