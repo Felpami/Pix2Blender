@@ -2,7 +2,7 @@
 PixVox implemenetation with Blender
 
 work used: [Pix2Vox](https://github.com/hzxie/Pix2Vox)
-           vox importer -----> 
+           [vox importer](https://github.com/RichysHub/MagicaVoxel-VOX-importer)
 
 Scaricare il file zip Pix2Blender.zip
 
