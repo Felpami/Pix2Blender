@@ -7,7 +7,7 @@ Work used: <br/>
 3) [Python parser and writer](https://github.com/gromgull/py-vox-io)
 
 Download weight from: [Pix2Vox-A](https://gateway.infinitescript.com/?fileName=Pix2Vox-A-ShapeNet.pth) <br/>
-Download the zip file: Pix2Blender.zip
+Download the zip file: [Pix2Blender.zip](https://github.com/Fedami/Pix2Blender/archive/refs/heads/main.zip)
 
 Put the file Pix2Vox-A.pth into the weights folder (C:\ .. \Pix2Blender\core\weights)
 
