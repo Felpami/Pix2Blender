@@ -12,8 +12,8 @@ Download the zip file: Pix2Blender.zip
 Put the file Pix2Vox-A.pth into the weights folder (C:\ .. \Pix2Blender\core\weights)
 
 Install the Pix2Blender.zip file inside Blneder, in the testing tab add these addons:
-1)Tools: Pix2Blender
-2)Import Export: MagicaVoxel VOX format
+1) Tools: Pix2Blender
+2) Import Export: MagicaVoxel VOX format
 
 With the file are provided:
 1) One folder (InputImages) with 24 images for testing the network.
