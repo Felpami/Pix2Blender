@@ -1,10 +1,10 @@
 # Pix2Blender
 Pix2Vox implemenetation with Blender
 
-work used: <br/>
-[Pix2Vox](https://github.com/hzxie/Pix2Vox) <br/>
-[vox importer](https://github.com/RichysHub/MagicaVoxel-VOX-importer) <br/>
-[Python parser and writer](https://github.com/gromgull/py-vox-io)
+Work used: <br/>
+1) [Pix2Vox](https://github.com/hzxie/Pix2Vox) <br/>
+2) [vox importer](https://github.com/RichysHub/MagicaVoxel-VOX-importer) <br/>
+3) [Python parser and writer](https://github.com/gromgull/py-vox-io)
 
 Download weight from: [Pix2Vox-A](https://gateway.infinitescript.com/?fileName=Pix2Vox-A-ShapeNet.pth) <br/>
 Download the zip file: Pix2Blender.zip
