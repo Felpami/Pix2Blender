@@ -11,7 +11,7 @@ Download the zip file: [Pix2Blender.zip](https://github.com/Fedami/Pix2Blender/a
 
 Put the file Pix2Vox-A.pth into the weights folder (C:\ .. \Pix2Blender\core\weights)
 
-Install the Pix2Blender.zip file inside Blneder, in the testing tab add these addons:
+Install the Pix2Blender.zip file inside Blender, in the testing tab add these addons:
 1) Tools: Pix2Blender
 2) Import Export: MagicaVoxel VOX format
 
