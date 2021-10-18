@@ -15,7 +15,7 @@ Install the Pix2Blender.zip file inside Blender, in the testing tab add these ad
 1) Tools: Pix2Blender
 2) Import Export: MagicaVoxel VOX format
 
-With the file are provided:
+With the downloaded file are provided:
 1) One folder (InputImages) with 24 images for testing the network.
 
 
