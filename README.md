@@ -1,5 +1,5 @@
 # Pix2Blender
-Pix2Vox implemenetation with Blender
+Pix2Vox implemenetation with Blender (v. 2.92.0)
 
 Work used: <br/>
 1) [Pix2Vox](https://github.com/hzxie/Pix2Vox) <br/>
